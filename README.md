@@ -64,7 +64,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Contato
 
-[Linkedin](www.linkedin.com/in/fred-cavalheiro/)
+[Linkedin](https://www.linkedin.com/in/fred-cavalheiro/)
 
 ## Autor
 
