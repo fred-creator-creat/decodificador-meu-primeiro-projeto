@@ -54,7 +54,7 @@ O **Decodificador de Texto** é uma aplicação web que permite criptografar e d
 
 - Não sei a causa das imagens não aparecerem na demonstração, apaguei o repositório 3x e nada, continua aparecendo na vercel sem as imagens, mais no projeto original aparece tudo, as demais funcionalidades estão funcionando normalmente.
 
-[Link Demonstração](https://vercel.com/new/fred-cavalheiros-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=decodificador-meu-primeiro-projeto-lzp5b9l3z.vercel.app&projectName=decodificador-meu-primeiro-projeto&s=https%3A%2F%2Fgithub.com%2Ffred-creator-creat%2Fdecodificador-meu-primeiro-projeto&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1)
+[Link Demonstração](https://decodificador-meu-primeiro-projeto.vercel.app/)
 
 ![Screenshot](![Alura Challenge - Desafio 1 - Lógica (Copy)](https://github.com/user-attachments/assets/44cb1e1c-9d68-40eb-8d3c-3c24453d340b))
 
