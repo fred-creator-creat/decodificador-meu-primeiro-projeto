@@ -156,8 +156,7 @@ footer {
   font-family: "Inter", sans-serif;
   font-size: 15px;
   padding: 10px;
-  background-color: var(--cor-azul);
-  color: white;
+  color: var(--cor-azul);
   position: absolute;
   width: 100%;
   text-align: center;
